@@ -1,0 +1,2 @@
+# lzu_login
+兰大教务在线登陆urllib和requests两种方法登陆教务在线
